@@ -1,0 +1,6 @@
+# Exclude these from backup
+.git
+node_modules
+*.log
+*.tmp
+.DS_Store
